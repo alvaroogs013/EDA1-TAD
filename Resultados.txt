@@ -1,0 +1,68 @@
+Creando listaA vacía: 0
+Valor: 45 en posición: 1
+Valor: 32 en posición: 2
+Valor: 67 en posición: 3
+Valor: 90 en posición: 4
+Valor: 25 en posición: 5
+Valor: 45 en posición: 6
+Valor: 50 en posición: 7
+Valor: 60 en posición: 8
+Valor: 32 en posición: 9
+Valor: 50 en posición: 10
+10 valores en la lista
+Eliminando repetidos 
+Valor: 45 en posición: 1
+Valor: 32 en posición: 2
+Valor: 67 en posición: 3
+Valor: 90 en posición: 4
+Valor: 25 en posición: 5
+Valor: 50 en posición: 6
+Valor: 60 en posición: 7
+7 valores en la lista
+Creando listaB vacía: 0
+Valor: 50 en posición: 1
+Valor: 32 en posición: 2
+Valor: 60 en posición: 3
+Valor: 50 en posición: 4
+Valor: 45 en posición: 5
+Valor: 25 en posición: 6
+Valor: 90 en posición: 7
+Valor: 67 en posición: 8
+Valor: 32 en posición: 9
+Valor: 45 en posición: 10
+10 valores en la lista
+
+Ahora concateno: (0)
+Valor: 45 en posición: 1
+Valor: 32 en posición: 2
+Valor: 67 en posición: 3
+Valor: 90 en posición: 4
+Valor: 25 en posición: 5
+Valor: 50 en posición: 6
+Valor: 60 en posición: 7
+Valor: 50 en posición: 8
+Valor: 32 en posición: 9
+Valor: 60 en posición: 10
+Valor: 50 en posición: 11
+Valor: 45 en posición: 12
+Valor: 25 en posición: 13
+Valor: 90 en posición: 14
+Valor: 67 en posición: 15
+Valor: 32 en posición: 16
+Valor: 45 en posición: 17
+17 valores en la lista
+0 valores en la lista
+
+
+Ahora con la pila: 
+Creando la pila vacía: 0
+Extracción número: 10 -> 9
+Extracción número: 9 -> 8
+Extracción número: 8 -> 7
+Extracción número: 7 -> 6
+Extracción número: 6 -> 5
+Extracción número: 5 -> 4
+Extracción número: 4 -> 3
+Extracción número: 3 -> 2
+Extracción número: 2 -> 1
+Extracción número: 1 -> 0
